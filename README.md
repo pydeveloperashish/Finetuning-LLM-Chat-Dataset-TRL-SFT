@@ -1,0 +1,2 @@
+- This is project of finetuning LLM on chat dataset which has User and Assistance conversation. 
+- Finetuning is done using huggingface TRL library with SFTTrainer.
